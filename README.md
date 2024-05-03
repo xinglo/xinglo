@@ -4,7 +4,7 @@
   </div>
   my name is <b style="color: darkblue;">flos</b>. 
   <br>
-  i am an video Gamer with a career in <b style="color: darkred;">Financial Engineering</b>. 
+  i am an video gamer with a career in <b style="color: darkred;">Financial Industry</b>. 
   <br>
   econ @ uc 🥦 .  fin eng @ usc🗡. 
   <br>
