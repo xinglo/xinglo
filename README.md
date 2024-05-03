@@ -1,14 +1,14 @@
 <div align="center">
   <div>
-    <img width="36" height="36" src="./icon.svg" alt="Zhaoxun Lorenz Liu">
+    <img width="36" height="36" src="./icon.svg" alt="Xingru(Iris) Long">
   </div>
-  my name is <b style="color: darkblue;">lorenz</b>. 
+  my name is <b style="color: darkblue;">flos</b>. 
   <br>
-  i am an amateur cellist with a career in <b style="color: darkred;">human-ai interaction</b>. 
+  i am an video Gamer with a career in <b style="color: darkred;">Financial Engineering</b>. 
   <br>
-  msc @ uoft cs. ml engineer @ uhn. 
+  econ @ uc 🥦 .  fin eng @ usc🗡. 
   <br>
-  you can reach me at <u>lorenz [at] cs [dot] toronto [dot] edu</u>. 
+  you can reach me at <u>xingru [at]  Fin Eng [dot] Los Angeles [dot] edu</u>. 
 </div>
 
 ----
