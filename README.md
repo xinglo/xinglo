@@ -18,5 +18,11 @@
 </div>
 
 <div align="center">
-  <iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width="330" height="450" src="https://music.163.com/outchain/player?type=0&id=615267582&auto=0&height=430"></iframe>
+  this is what i am listening (literally) right now. 
+</div>
+
+<div align="center">
+  <a href="https://spotify-github-profile.vercel.app/api/view?uid=315xfbakcqyn3ol44zdyuedeu7hi&redirect=true">
+    <img src="https://spotify-github-profile.vercel.app/api/view?uid=315xfbakcqyn3ol44zdyuedeu7hi&cover_image=true&theme=novatorem&show_offline=true&background_color=171111&interchange=true&bar_color=81d8d0&bar_color_cover=true" alt="Spotify Profile">
+  </a>
 </div>
